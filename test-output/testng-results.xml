@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10416" started-at="2021-11-18T00:47:30Z" finished-at="2021-11-18T00:47:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10416" started-at="2021-11-18T00:47:30Z" finished-at="2021-11-18T00:47:40Z">
+      <class name="seleniumTestNG.SearchUserTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:seleniumTestNG.SearchUserTests@72d818d1]" name="setup" is-config="true" duration-ms="5219" started-at="2021-11-18T00:47:30Z" finished-at="2021-11-18T00:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchUser()[pri:0, instance:seleniumTestNG.SearchUserTests@72d818d1]" name="searchUser" duration-ms="4247" started-at="2021-11-18T00:47:35Z" finished-at="2021-11-18T00:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUser -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:seleniumTestNG.SearchUserTests@72d818d1]" name="tear" is-config="true" duration-ms="86" started-at="2021-11-18T00:47:40Z" finished-at="2021-11-18T00:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- seleniumTestNG.SearchUserTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
